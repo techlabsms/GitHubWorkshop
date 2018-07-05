@@ -20,4 +20,6 @@ To get changes from your local repository up on the Github platform you need to 
 
 ## Further concepts: ##
 ### Branching ###
-
+Branches are used to develop features isolated from each other.
+The master branch is the "default" branch when you create a repository.
+Use other branches for development and merge them back to the master branch upon completion.
